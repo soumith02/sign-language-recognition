@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Trained model & collected data (too large for git)
+*.h5
+data/
+logs/
+
+# OS
+.DS_Store
+
+# Test file
+webcam_test.py
+
